@@ -3,6 +3,6 @@ public class Main {
 
 
 
-        System.out.println("First Version is complete");
+        System.out.println(" Version is complete");
     }
 }
